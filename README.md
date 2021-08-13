@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate/ engage in entry level VAPT engagements/opportunities
 - 🤔 Any and every help with VAPT methodologies and breaking into bug bounty is more than appreciated
 - 💬 Can share my knowledge on C/C++ programming and Python scripting
-- Reach me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/raktim-saha-001) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/raktim.saha.01) 
+- Reach me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raktim-saha-001) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/raktim.saha.01) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a Mirror to Your Behaviour :) 
 
