@@ -2,8 +2,9 @@
 
 ## I'm Raktim (Ricky)
 #### Pentester :computer: | Coder :computer: | Writer :black_nib:
+[![Visits Badge](https://badges.pufler.dev/visits/Ricky-001/Ricky-001)](https://badges.pufler.dev)
 
-## A mediocre student but eagerly upskilling and learning
+## Just another ordinary student eagerly upskilling and learning
 
 - 🔭 I’m actively upskilling in the infosec domain
 - 💻 Polishing my coding skills while picking up on penetration testing and ethical hacking
