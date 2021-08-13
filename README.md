@@ -15,7 +15,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ricky-001&theme=ads-juicy-fresh&hide_border=true&currStreakNum=DD2727&sideLabels=04DD00)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky-001&show_icons=true&theme=ads-juicy-fresh)](https://github.com/Ricky-001/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky-001&show_icons=true&theme=dark)](https://github.com/Ricky-001/github-readme-stats)
 
 ![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricky-001&show_icons=true&theme=blue-green)
 
