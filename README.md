@@ -2,7 +2,7 @@
 
 ## I'm Raktim (Ricky)
 #### Pentester :computer: | Coder :computer: | Writer :black_nib:
-[![Visits Badge](https://badges.pufler.dev/visits/Ricky-001/Ricky-001)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/Ricky-001/Ricky-001)]
 
 ## Just another ordinary student eagerly upskilling and learning
 
