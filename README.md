@@ -1,6 +1,5 @@
-### Hi there 👋
-## I'm Raktim (Ricky)
-#### Pentester :computer: | Coder :computer: | Writer :black_nib:
+### Hi there 👋 ## I'm Raktim (Ricky)
+#### Pentester :globe_with_meridians: | Coder :computer: | Writer :black_nib:
 ### Just another ordinary student eagerly upskilling and learning
 
 - 🔭 I’m actively upskilling in the infosec domain
