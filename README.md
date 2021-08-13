@@ -1,23 +1,21 @@
 ### Hi there 👋
-
 ## I'm Raktim (Ricky)
 #### Pentester :computer: | Coder :computer: | Writer :black_nib:
-
-
-## Just another ordinary student eagerly upskilling and learning
+### Just another ordinary student eagerly upskilling and learning
 
 - 🔭 I’m actively upskilling in the infosec domain
 - 💻 Polishing my coding skills while picking up on penetration testing and ethical hacking
 - 👯 I’m looking to collaborate/ engage in entry level VAPT engagements/opportunities
 - 🤔 Any and every help with VAPT methodologies and breaking into bug bounty is more than appreciated
 - 💬 Can share my knowledge on C/C++ programming and Python scripting
-- Reach me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raktim-saha-001) [![Twitter](https://img.shields.io/badge/@Im_Ricky_001-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Im_Ricky_001) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/raktim.saha.01) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](http://ricky-portfolio-website.herokuapp.com/)
+- 📫 Reach me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raktim-saha-001) [![Twitter](https://img.shields.io/badge/@Im_Ricky_001-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Im_Ricky_001) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/raktim.saha.01) 
+- Check out my ![Portfolio](http://ricky-portfolio-website.herokuapp.com/) and contact me there
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a Mirror to Your Behaviour :) 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ricky-001&theme=ads-juicy-fresh&hide_border=true&currStreakNum=DD2727&sideLabels=04DD00)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ricky-001&theme=ads-juicy-fresh&hide_border=true&currStreakNum=DD2727&sideLabels=04DD00)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky-001&show_icons=true&theme=dark)](https://github.com/Ricky-001/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky-001&show_icons=true&theme=dark)
 
 ![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricky-001&show_icons=true&theme=blue-green)
 
@@ -32,5 +30,7 @@
 #### Frameworks
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 #### Online Certifications and Activities
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white) 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/TomRiddle001) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white) 
 
+Nice meeting y'all. Signing off...
+![](https://drive.google.com/drive/u/1/folders/1-lwGCuCtxcCNvtZpbKuz4r5i8mPoLUjJ)
