@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**Ricky-001/Ricky-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Raktim (Ricky)
+#### Pentester :computer: | Coder :computer: | Writer :black_nib:
 
-Here are some ideas to get you started:
+## A mediocre student but eagerly upskilling and learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m actively upskilling in the infosec domain
+- 💻 Polishing my coding skills while picking up on penetration testing and ethical hacking
+- 👯 I’m looking to collaborate/ engage in entry level VAPT engagements/opportunities
+- 🤔 Any and every help with VAPT methodologies and breaking into bug bounty is more than appreciated
+- 💬 Can share my knowledge on C/C++ programming and Python scripting
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am a Mirror to Your Behaviour :) 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ricky-001&theme=ads-juicy-fresh&hide_border=true&currStreakNum=DD2727&sideLabels=04DD00)](https://git.io/streak-stats)
+
+![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricky-001&show_icons=true&theme=blue-green)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
