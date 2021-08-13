@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Raktim (Ricky)
-#### Pentester :globe_with_meridians: | Coder :computer: | Writer :black_nib:
-### Just another ordinary student eagerly upskilling and learning
+Pentester :globe_with_meridians: | Coder :computer: | Writer :black_nib:
+#### Just another ordinary student eagerly upskilling and learning
 
-- 🔭 I’m actively upskilling in the infosec domain
-- 💻 Polishing my coding skills while picking up on penetration testing and ethical hacking
+- 🔭 I’m actively upskilling in the infosec domain with hands-on trainings and projects
+- 💻 Polishing my coding skills while picking up on penetration testing and ethical hacking knowledge
 - 👯 I’m looking to collaborate/ engage in entry level VAPT engagements/opportunities
 - 🤔 Any and every help with VAPT methodologies and breaking into bug bounty is more than appreciated
 - 💬 Can share my knowledge on C/C++ programming and Python scripting
