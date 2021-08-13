@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Raktim (Ricky)
+## Hi there 👋 I'm Raktim (Ricky)
 Pentester :globe_with_meridians: | Coder :computer: | Writer :black_nib:
-#### Just another ordinary student eagerly upskilling and learning
+### Just another ordinary student eagerly upskilling and learning
 
 - 🔭 I’m actively upskilling in the infosec domain with hands-on trainings and projects
 - 💻 Polishing my coding skills while picking up on penetration testing and ethical hacking knowledge
