@@ -33,4 +33,4 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/TomRiddle001) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white) 
 
 Nice meeting y'all. Signing off...
-<img src="https://drive.google.com/drive/u/1/folders/1-lwGCuCtxcCNvtZpbKuz4r5i8mPoLUjJ" />
+<img src="https://drive.google.com/file/d/1qA1GpHm7gQYN0y3WWQQtHcJx3hEcU4qD/view?usp=sharing")
