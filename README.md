@@ -8,7 +8,7 @@ Pentester :globe_with_meridians: | Coder :computer: | Writer :black_nib:
 - 🤔 Any and every help with VAPT methodologies and breaking into bug bounty is more than appreciated
 - 💬 Can share my knowledge on C/C++ programming and Python scripting
 - 📫 Reach me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raktim-saha-001) [![Twitter](https://img.shields.io/badge/@Im_Ricky_001-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Im_Ricky_001) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/raktim.saha.01) 
-- Check out my ![Portfolio](http://ricky-portfolio-website.herokuapp.com/) and contact me there
+- Check out my [Portfolio](http://ricky-portfolio-website.herokuapp.com/) and contact me there
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a Mirror to Your Behaviour :) 
 
