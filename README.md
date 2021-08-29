@@ -12,6 +12,8 @@ Pentester :globe_with_meridians: | Coder :computer: | Writer :black_nib:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a Mirror to Your Behaviour :) 
 
+<script src="https://tryhackme.com/badge/140134"></script>
+
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ricky-001&theme=ads-juicy-fresh&hide_border=true&currStreakNum=DD2727&sideLabels=04DD00)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky-001&show_icons=true&theme=dark)
