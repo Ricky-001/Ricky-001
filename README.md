@@ -12,7 +12,7 @@ Pentester :globe_with_meridians: | Coder :computer: | Writer :black_nib:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a Mirror to Your Behaviour :) 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/TomRiddle001.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/TomRiddle001.png" alt="TryHackMe"/>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ricky-001&theme=ads-juicy-fresh&hide_border=true&currStreakNum=DD2727&sideLabels=04DD00)
 
